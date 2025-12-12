@@ -22,9 +22,6 @@ Sales analytics and scoring
 
 🧱 System Architecture
 order_app ──▶ kitchen_app ──▶ inventory_app ──▶ finance_app
-     ▲                                          │
-     └────────────── sales analytics ◀──────────┘
-
 
 All communication via HTTP (REST)
 
